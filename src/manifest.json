@@ -1,0 +1,23 @@
+{
+    "short_name": "そこマネ",
+    "name": "そこにmoney manager",
+    "icons": [
+        {
+          "src": "images/pig48.png",
+          "type": "image/png",
+          "sizes": "48x48"
+        },
+        {
+          "src": "images/pig96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "images/pig192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+     ],
+     "background_color": "#F0F8FF",
+     "display": "standalone"
+}
